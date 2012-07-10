@@ -1,4 +1,4 @@
-buttr - your grid system complete with a delicious piece of butter !
+buttr - your grid system with a delicious piece of butter !
 ========================
 #
 Yet another grid system, extremely simple, basic and useful for html. A very old project developed after ten years of html with my old friend Philippe Candille (AKA Fluxen). http://www.fluxen.net/
