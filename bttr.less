@@ -1,19 +1,12 @@
-/*###################################################
-
-				Butter grid system
-
-###################################################*/
-
 @import "reset";
-
+@import "mediaqueries";
+ 
 @testingColor:#fff89e;
 @pageColor:whitesmoke;
 /*pageWidth possible = 1536px, => 1440px, 1344px, 1248px, 1152px, 1056px, => 960px, 864px, => 768px, 672px, 576px, => 480px, 384px, 288px */
-@pageWidth:480px;
-
-
+//@pageWidth:960px;
 .page{
-	width:@pageWidth;
+	//width:@pageWidth;
 	margin:0 auto;
 	background-color:@pageColor;
 	}
@@ -95,6 +88,7 @@
 .g1{
 	width:6.25%; /*60 / 960*/
 	}
+
 
 
 .test .g1,.test .g2,.test .g3,.test .g4,.test .g5,.test .g6,.test .g7,.test .g8,.test .g9,.test .g10,.test .g11,.test .g12{ background-color:@testingColor; height:60px; }
