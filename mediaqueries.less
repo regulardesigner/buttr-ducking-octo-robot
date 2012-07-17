@@ -1,5 +1,5 @@
 @media screen and (min-width:1440px) {
-	body {
+	body.test {
 		background-image: url('http://placehold.it/100x200&text=1152px');
 	}
 	.page {
@@ -8,7 +8,7 @@
 }
 
 @media screen and (min-width:960px) and (max-width:1439px) {
-	body {
+	body.test {
 		background-image: url('http://placehold.it/100x200&text=960px');
 	}
 	.page {
@@ -16,8 +16,17 @@
 	}
 }
 
-@media screen and (max-width:959px) {
-	body {
+@media screen and (min-width:768px) and (max-width:959px) {
+	body.test {
+		background-image: url('http://placehold.it/100x200&text=768px');
+	}
+	.page {
+		width:768px;
+	}
+}
+
+@media screen and (max-width:767px) {
+	body.test {
 		background-image: url('http://placehold.it/100x200&text=480px');
 	}
 	.page {

@@ -3,7 +3,7 @@
  
 @testingColor:#fff89e;
 @pageColor:whitesmoke;
-/*pageWidth possible = 1536px, => 1440px, 1344px, 1248px, 1152px, 1056px, => 960px, 864px, => 768px, 672px, 576px, => 480px, 384px, 288px */
+//pageWidth possible = 1536px, => 1440px, 1344px, 1248px, 1152px, 1056px, => 960px, 864px, => 768px, 672px, 576px, => 480px, 384px, 288px
 //@pageWidth:960px;
 .page{
 	//width:@pageWidth;
@@ -18,7 +18,7 @@
 	display:inline;/*for ie double margin*/ 
 	}
 
-.bttr.box {
+.bttr.box.g12 {
 	width:100%;/*for flex bttr*/ 
 	margin:0 0;
 	background-color:#000;
@@ -91,7 +91,7 @@
 
 
 
-.test .g1,.test .g2,.test .g3,.test .g4,.test .g5,.test .g6,.test .g7,.test .g8,.test .g9,.test .g10,.test .g11,.test .g12{ background-color:@testingColor; height:60px; }
+.test .g1,.test .g2,.test .g3,.test .g4,.test .g5,.test .g6,.test .g7,.test .g8,.test .g9,.test .g10,.test .g11,.test .g12{ background-color:@testingColor; min-height:60px; }
 
 .mb10 { margin-bottom:10px !important; }
 .mb20 { margin-bottom:20px !important; }
