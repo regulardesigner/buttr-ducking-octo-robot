@@ -1,4 +1,4 @@
 #ignorer les fichiers .less
 *.less
-#ignorer tous les fichiers nommés less
-less
+#ignorer tous les fichiers nommés less et testing
+less, testing
