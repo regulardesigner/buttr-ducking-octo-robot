@@ -1,5 +1,7 @@
 #ignorer les fichiers .less
 *.less
+#ignorer fichier .DS_Store
+.DS_Store
 #ignorer tous les fichiers nommés less et testing
 less
 testing
