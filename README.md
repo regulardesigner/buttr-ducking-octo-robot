@@ -1,3 +1,5 @@
+Buttr Version 1.5
+
 buttr - your grid system with a delicious piece of butter !
 ========================
 #
@@ -10,6 +12,15 @@ We wanted to use our own grid system because we found all other grid too complic
 #
 #
 HOW BUTTR WORKS
+#
+Fisrt things first!
+You need to add in the head of your html page two simple line!
+
+	<link rel="stylesheet" href="bttr.css" />
+	<link rel="stylesheet" href="mediaqueries.css" />
+
+#
+And Now?
 #
 Tree class that it !
 #
