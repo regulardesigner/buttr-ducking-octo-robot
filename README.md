@@ -39,3 +39,6 @@ third = .page
 #
 This css class is not mandatory, but if you need to focus your column in a 960px wide page you need this class!
 #
+### Go further
+#
+*I have to write this part ... sorry;)*
