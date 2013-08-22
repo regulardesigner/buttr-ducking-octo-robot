@@ -14,7 +14,7 @@ We wanted to use our own grid system because we found all other grid too complic
 ## HOW BUTTR WORKS
 #
 ### Fisrt things first!
-You need to add in the head of your html page two simple line!
+Firstly you will need to add two simple lines of code in your header between <head> and </ head>. Easy, right?
 
 	<link rel="stylesheet" href="bttr.css" />
 	<link rel="stylesheet" href="mediaqueries.css" />
