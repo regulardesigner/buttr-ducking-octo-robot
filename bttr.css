@@ -1,5 +1,5 @@
 /*FLEX BTTR GRID*/
-.page {
+.bread {
   margin: 0 auto;
   background-color: #f5f5f5;
 }
@@ -303,4 +303,7 @@
 }
 .mt100 {
   margin-top: 100px !important;
+}
+.rl {
+  position: relative;
 }
