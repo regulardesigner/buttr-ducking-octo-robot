@@ -2,7 +2,7 @@
   body.test {
     background-image: url('http://placehold.it/100x200&text=1152px');
   }
-  .page {
+  .bread {
     width: 1152px;
   }
 }
@@ -10,7 +10,7 @@
   body.test {
     background-image: url('http://placehold.it/100x200&text=960px');
   }
-  .page {
+  .bread {
     width: 960px;
   }
 }
@@ -18,7 +18,7 @@
   body.test {
     background-image: url('http://placehold.it/100x200&text=768px');
   }
-  .page {
+  .bread {
     width: 768px;
   }
 }
@@ -26,7 +26,7 @@
   body.test {
     background-image: url('http://placehold.it/100x200&text=480px');
   }
-  .page {
+  .bread {
     width: 480px;
   }
 }
@@ -34,7 +34,7 @@
   body.test {
     background-image: url('http://placehold.it/100x100&text=320px');
   }
-  .page.testing {
+  .bread {
     width: 320px;
   }
 }
