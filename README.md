@@ -30,12 +30,12 @@ Second = .g + the col size number : 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
 #
 For exemple you want to creat two columns, you need to use twice the .g6 class
 
-	<div class="page">
+	<div class="bread">
 		<div class="bttr g6">the content<div>
 		<div class="bttr g6">the content<div>
 	</div>
 
-third = .page
+third = .bread
 #
 This css class is not mandatory, but if you need to focus your column in a 960px wide page you need this class!
 #
